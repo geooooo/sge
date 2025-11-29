@@ -1,1 +1,1 @@
-# Графический редактор, написанный на первом курсе 11-ПГ
+# 16bit graphical editor built with C and Assembler for university lab task, 11PG group
